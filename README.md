@@ -1,5 +1,5 @@
 # Slider-swiper.js
-A Pen created on CodePen.io. Original URL:
+A Pen created on CodePen.io. Original URL:https://codepen.io/kunal7216/pen/GRwavXx
 
 
 ![Screenshot 2023-08-09 193425](https://github.com/kunal7216/Slider-swiper.js/assets/112888767/6c041098-71db-4aff-9a8c-36ff7bfbc7e3)
